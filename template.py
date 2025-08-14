@@ -19,7 +19,7 @@ list_of_files=[
     f"{project_name}/cloud_storage/aws_storage.py",
     f"{project_name}/data_access/__init__.py",
     f"{project_name}/data_access/proj1_data.py",
-    f"{project_name}/constants/proj1_data.py",
+    f"{project_name}/constants/proj1_data.py",#__init__.py aayega yaha pr
     f"{project_name}/entity/__init__.py",
     f"{project_name}/entity/config_entity.py",
     f"{project_name}/entity/artifact_entity.py",
